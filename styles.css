@@ -1,0 +1,38 @@
+.file-success{
+  font-size: 16px;
+}
+
+.file-success:link{
+  color: green;
+}
+
+.file-success:hover{
+  color: green;
+  font-weight: bold;
+}
+
+.file-unsuccess{
+  font-size: 16px;
+}
+
+.file-unsuccess:link{
+  color: red;
+}
+
+.file-unsuccess:hover{
+  color: red;
+  font-weight: bold;
+}
+
+.file-attach{
+  font-size: 16px;
+}
+
+.file-attach:link{
+  color: black;
+}
+
+.file-attach:hover{
+  color: black;
+  font-weight: bold;
+}
